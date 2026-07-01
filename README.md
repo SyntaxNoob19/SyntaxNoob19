@@ -1,5 +1,5 @@
 
-# Hi, I'm Riya.
+# Hi, I'm Riya Maity.
 
 I'm currently an Information Technology undergraduate from India, figuring out what it really means to become a software engineer.
 
@@ -85,5 +85,5 @@ I'm still learning, still building, and always open to new ideas, feedback, and 
 
 I'd love to hear from you.
 
-* **LinkedIn:** [https://www.linkedin.com/in/riya-maity-8663b4357/]
-* **Email:** [maity.riya1906@gmail.com]
+* **LinkedIn:** https://www.linkedin.com/in/riya-maity-8663b4357/
+* **Email:** maity.riya1906@gmail.com
