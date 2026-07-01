@@ -1,3 +1,9 @@
+<!-- Replace the URL below with your GitHub banner once it's ready -->
+<!--
+<p align="center">
+  <img src="YOUR_BANNER_URL" alt="GitHub Banner" width="100%" />
+</p>
+-->
 
 # Hi, I'm Riya.
 
@@ -11,48 +17,57 @@ Today, I'm focused on backend development with Java and Spring Boot while contin
 
 ---
 
-## Current Focus
+## What I'm Exploring
 
-* Learning Spring Boot and backend development
-* Practicing Data Structures & Algorithms in Java
-* Building cross-platform applications with Flutter
-* Exploring practical applications of AI in software
-* Preparing for software engineering internships and placements
+| Area | Current Focus |
+|------|---------------|
+| **Backend Development** | Building REST APIs and scalable applications with Java & Spring Boot |
+| **Problem Solving** | Practicing Data Structures & Algorithms in Java |
+| **Mobile Development** | Building cross-platform applications using Flutter |
+| **Artificial Intelligence** | Exploring practical AI integrations in real-world software |
+| **Career** | Preparing for software engineering internships and placements |
 
 ---
 
-## Technologies
+## Projects That Shaped My Journey
+
+| Project | Description |
+|---------|-------------|
+| **SmartTravel** | An AI-powered travel planner built with Spring Boot, MySQL, and AI integration. This project taught me backend architecture, authentication, REST APIs, database design, and how AI can enhance real-world applications. |
+| **Clariora** | A Flutter-based mental wellness application that strengthened my understanding of mobile development, clean UI design, Firebase, and creating meaningful user experiences. |
+| **SmartShelf** | Developed during Walmart Sparkathon, SmartShelf explores how AI can assist retailers with smarter pricing decisions and inventory insights. |
+
+---
+
+## Tools I've Been Building With
 
 ### Languages
 
-* Java
-* Dart
-* Python
-* SQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 
 ### Frameworks & Tools
 
-* Spring Boot
-* Flutter
-* MySQL
-* Git & GitHub
-* Maven
-* REST APIs
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
 
 I'm always learning, and this list continues to grow alongside my projects.
 
 ---
 
-## Featured Projects
+## GitHub at a Glance
 
-### SmartTravel
-
-An AI-powered travel planner built with Spring Boot, MySQL, and AI integration to generate personalized travel itineraries. Building this project taught me about backend architecture, authentication, REST APIs, database design, and integrating AI into real-world applications.
-
-### Clariora
-
-A Flutter application focused on mental wellness. This project strengthened my understanding of mobile development, clean UI design, and creating experiences that are simple and meaningful.
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SyntaxNoob19&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxNoob19&layout=compact&hide_border=true" />
+</p>
 
 ---
 
@@ -63,27 +78,30 @@ This GitHub isn't just a collection of repositories.
 It's a snapshot of my journey as a developer.
 
 Some projects began as college assignments.
-Some were built for hackathons.
+
+Some were built during hackathons.
+
 Others started as simple ideas that I wanted to explore.
 
 Each repository represents a lesson learned, a challenge solved, or a skill I wanted to improve. As I continue learning, this profile will continue growing with me.
 
 ---
 
-## Looking Ahead
+## Where I'm Headed
 
 Right now, my goal isn't to learn every technology.
 
-It's to become the kind of engineer who understands problems deeply, writes clean and maintainable code, and keeps improving one project at a time.
+It's to become the kind of engineer who understands problems deeply, writes clean and maintainable software, and keeps improving one project at a time.
 
+> *Every repository here represents a lesson learned, a challenge solved, or an idea I wanted to bring to life.*
+
+---
 
 ## Let's Connect
 
 If you've made it this far, thank you for taking the time to explore my work.
 
-I'm still learning, still building, and always open to new ideas, feedback, and conversations. If you'd like to connect, collaborate, or simply chat about software development, feel free to reach out.
+I'm still learning, still building, and always open to new ideas, feedback, and conversations. Whether you'd like to collaborate, discuss software development, or simply say hello, I'd love to hear from you.
 
-I'd love to hear from you.
-
-* **LinkedIn:** https://www.linkedin.com/in/riya-maity-8663b4357/
-* **Email:** maity.riya1906@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/riya-maity-8663b4357/
+- **Email:** maity.riya1906@gmail.com
