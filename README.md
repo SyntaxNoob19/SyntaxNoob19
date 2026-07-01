@@ -1,9 +1,6 @@
-<!-- Replace the URL below with your GitHub banner once it's ready -->
-<!--
 <p align="center">
-  <img src="YOUR_BANNER_URL" alt="GitHub Banner" width="100%" />
+  <img src="assets/banner.png" alt="GitHub Banner" width="100%">
 </p>
--->
 
 # Hi, I'm Riya.
 
@@ -35,7 +32,6 @@ Today, I'm focused on backend development with Java and Spring Boot while contin
 |---------|-------------|
 | **SmartTravel** | An AI-powered travel planner built with Spring Boot, MySQL, and AI integration. This project taught me backend architecture, authentication, REST APIs, database design, and how AI can enhance real-world applications. |
 | **Clariora** | A Flutter-based mental wellness application that strengthened my understanding of mobile development, clean UI design, Firebase, and creating meaningful user experiences. |
-| **SmartShelf** | Developed during Walmart Sparkathon, SmartShelf explores how AI can assist retailers with smarter pricing decisions and inventory insights. |
 
 ---
 
@@ -59,15 +55,6 @@ Today, I'm focused on backend development with Java and Spring Boot while contin
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
 
 I'm always learning, and this list continues to grow alongside my projects.
-
----
-
-## GitHub at a Glance
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SyntaxNoob19&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxNoob19&layout=compact&hide_border=true" />
-</p>
 
 ---
 
