@@ -1,5 +1,5 @@
 
-# Hi, I'm Riya Maity.
+# Hi, I'm Riya.
 
 I'm currently an Information Technology undergraduate from India, figuring out what it really means to become a software engineer.
 
