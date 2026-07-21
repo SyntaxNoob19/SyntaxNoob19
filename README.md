@@ -37,7 +37,7 @@ Today, I'm exploring different areas of software development through hands-on pr
 
 ---
 
-## Tools I've Been Building With
+## Technologies I Work With
 
 ### Languages
 
