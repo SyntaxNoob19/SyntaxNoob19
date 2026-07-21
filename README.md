@@ -10,7 +10,7 @@ I didn't start with a perfect roadmap or years of programming experience. Like m
 
 Somewhere along the way, I realized that what excites me most isn't collecting programming languages or frameworks—it's building software that solves real problems. Every project teaches me something new, not just about technology, but about designing systems, writing cleaner code, and thinking like an engineer.
 
-Today, I'm focused on backend development with Java and Spring Boot while continuing to build cross-platform applications with Flutter. Alongside that, I'm strengthening my problem-solving skills through Data Structures and Algorithms because I believe great software is built on strong fundamentals.
+Today, I'm exploring different areas of software development through hands-on projects while strengthening my problem-solving skills with Data Structures and Algorithms. I'm particularly interested in building reliable, practical applications and continuously expanding my understanding of software engineering one project at a time.
 
 ---
 
@@ -18,9 +18,10 @@ Today, I'm focused on backend development with Java and Spring Boot while contin
 
 | Area | Current Focus |
 |------|---------------|
-| **Backend Development** | Building REST APIs and scalable applications with Java & Spring Boot |
+| **Software Development** | Building real-world applications and learning software design principles |
 | **Problem Solving** | Practicing Data Structures & Algorithms in Java |
 | **Mobile Development** | Building cross-platform applications using Flutter |
+| **Backend Development** | Exploring REST APIs, databases, and scalable application development |
 | **Artificial Intelligence** | Exploring practical AI integrations in real-world software |
 | **Career** | Preparing for software engineering internships and placements |
 
@@ -30,7 +31,8 @@ Today, I'm focused on backend development with Java and Spring Boot while contin
 
 | Project | Description |
 |---------|-------------|
-| **SmartTravel** | An AI-powered travel planner built with Spring Boot, MySQL, and AI integration. This project taught me backend architecture, authentication, REST APIs, database design, and how AI can enhance real-world applications. |
+| **InfraGuard** | A Zero-Trust middleware security proxy that intercepts suspicious AI agent tool calls, performs rule-based threat detection, and enables human approval before execution. Built to explore secure AI systems, backend architecture, and cybersecurity concepts. |
+| **SmartTravel** | An AI-powered travel planner that helped me learn backend architecture, authentication, REST APIs, database design, and integrating AI into real-world applications. |
 | **Clariora** | A Flutter-based mental wellness application that strengthened my understanding of mobile development, clean UI design, Firebase, and creating meaningful user experiences. |
 
 ---
@@ -48,6 +50,7 @@ Today, I'm focused on backend development with Java and Spring Boot while contin
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
